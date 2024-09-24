@@ -636,7 +636,7 @@
   font-style: normal;
   font-display: swap;
   src: url('./shserifhk-sub79.woff2') format('woff2');
-  unicode-range: U+4D80-4DB5
+  unicode-range: U+4D80-4DBF
 }
 /* shserifhk [80] */
 @font-face {
@@ -1948,7 +1948,7 @@
   font-style: normal;
   font-display: swap;
   src: url('./shserifhk-sub243.woff2') format('woff2');
-  unicode-range: U+9F80-9FEA
+  unicode-range: U+9F80-9FFF
 }
 /* shserifhk [244] */
 @font-face {
